@@ -9,7 +9,7 @@ const app = express();
 
 // CORS
 app.use(cors({
-  origin: 'http://localhost:5173',
+  origin: 'https://idea-bank-gamma.vercel.app',
   credentials: true
 }));
 
@@ -34,3 +34,4 @@ app.use((err, req, res, next) => {
 
 const PORT = process.env.PORT || 5000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+module.exports = app;
