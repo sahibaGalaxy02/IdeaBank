@@ -9,7 +9,8 @@ Provide structured mentor feedback
 
 Maintain transparency in idea evaluation
 
-Showcase top ideas through leaderboards
+Showcase top ideas through leaderboards....
+
 
 
 
