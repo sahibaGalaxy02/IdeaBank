@@ -1,16 +1,55 @@
-💡 Idea Bank – College Innovation Platform
-Idea Bank is a MERN stack web application that helps colleges manage student innovation by enabling idea submission, evaluation, and progress tracking by mentors.
+# 💡 Idea Bank – College Innovation Platform
 
-🎯 Key Objectives
+Idea Bank is a MERN Stack web application that allows students to submit innovative ideas and mentors to review, evaluate, and provide feedback efficiently.
 
-Encourage innovation among students
+## 🚀 Features
 
-Provide structured mentor feedback
+- 🔐 Secure User Authentication (JWT)
+- 📝 Idea Submission & Management
+- ✏️ Full CRUD Operations
+- 👨‍🏫 Mentor Feedback System
+- 🏆 Leaderboard for Top Ideas
+- 📊 Progress Tracking Dashboard
 
-Maintain transparency in idea evaluation
+## 🛠️ Tech Stack
 
-Showcase top ideas through leaderboards....
+**Frontend**
+- React.js
+- React Router
+- Context API
+- CSS
 
+**Backend**
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- JWT
+- bcrypt.js
 
+## ⚙️ Installation
 
+```bash
+git clone <repository-url>
+cd IdeaBank
+npm install
+npm run dev
+```
 
+## 📌 Key Objectives
+
+- Encourage student innovation
+- Simplify idea evaluation
+- Provide structured mentor feedback
+- Ensure transparent review process
+
+## 🔮 Future Enhancements
+
+- AI-powered idea suggestions
+- Email notifications
+- File uploads
+- Analytics dashboard
+
+## 👩‍💻 Author
+
+**Sahiba Shaikh**
